@@ -1,8 +1,8 @@
-div align="center">
+<div align="center">
 
 # 🌟 Welcome to Ayush's Digital Universe 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+🚀;Open+Source+Contributor+✨;Problem+Solver+💡;Always+Learning+📚" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -19,25 +19,27 @@ div align="center">
 ## 🚀 About Me
 
 ```javascript
-const ayush = {
+const ayushSharma = {
     pronouns: "He" | "Him",
-    location: "📍 [Your Location]",
-    role: "[Your Role/Title]",
+    location: "📍 New Delhi, India",
+    role: "Full Stack Developer",
+    company: "Code Catalysts",
     code: ["JavaScript", "Python", "Java", "C++"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js", "Vue"],
             css: ["Tailwind", "Bootstrap", "Sass"]
         },
-        backEnd:  {
-            js: ["Node. js", "Express"],
+        backEnd: {
+            js: ["Node.js", "Express"],
             python: ["Django", "Flask"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
         tools: ["Git", "VS Code", "Postman"]
     },
-    currentFocus: "Building something amazing!  🎯",
+    currentFocus: "Building something amazing! 🎯",
+    openSource: "Active Contributor ✨",
     funFact: "I debug with console.log() 🐛"
 };
 ```
@@ -48,13 +50,13 @@ const ayush = {
 
 ## 🎯 What I'm Up To
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently Learning:** [New Technology/Framework]
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Currently Learning:** Advanced System Design & Cloud Architecture
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Working On:** [Current Project]
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Working On:** Open Source Projects & Full Stack Applications
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Looking to Collaborate On:** Open Source Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Ask Me About:** JavaScript, React, Node.js, or anything tech! 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Ask Me About:** JavaScript, React, Node.js, or anything tech!
 
 ---
 
@@ -62,7 +64,7 @@ const ayush = {
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,7 +87,7 @@ const ayush = {
 ### ⚙️ Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express. js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -114,7 +116,7 @@ const ayush = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37? style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
@@ -130,17 +132,13 @@ const ayush = {
 
 ### 📈 Performance Metrics
 
-<img width="49%" src="https://github-readme-stats.vercel. app/api? username=ayushap18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushap18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushap18&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
 
 ### 💻 Most Used Languages
 
-<img width="49%" src="https://github-readme-stats.vercel. app/api/top-langs/? username=ayushap18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=ayushap18&theme=tokyonight" />
-
-### 📊 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushap18&custom_title=Ayush's%20Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true)](https://github.com/ayushap18)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushap18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushap18&theme=tokyonight" />
 
 ### 🏆 GitHub Trophies
 
@@ -150,124 +148,7 @@ const ayush = {
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ayushap18/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushap18&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/ayushap18/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushap18&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/ayushap18/project-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushap18&repo=project-3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-<a href="https://github.com/ayushap18/project-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushap18&repo=project-4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
-</a>
-
-</div>
-
-<br>
-
-<details>
-<summary><b>🎯 Project Details - Click to Expand! </b></summary>
-<br>
-
-### 🔥 Project 1: [Amazing Project Name]
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-**Description:** A revolutionary application that [describe what it does].  Built with modern technologies to solve [problem it solves].
-
-**✨ Key Features:**
-- ⚡ Feature 1
-- 🚀 Feature 2
-- 💡 Feature 3
-- 🎨 Feature 4
-
-**🛠️ Tech Stack:** `React` `Node.js` `MongoDB` `AWS`
-
-**🔗 Links:** [Live Demo](#) | [GitHub Repo](#) | [Documentation](#)
-
-**📊 Impact:** 1000+ users, 50+ GitHub stars
-
----
-
-### 🔥 Project 2: [Another Cool Project]
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41a2-99c3-5ffb527abd26.gif">
-
-**Description:** An innovative solution for [describe the problem it solves]. This project showcases [key achievement]. 
-
-**✨ Key Features:**
-- 🌟 Feature 1
-- 💻 Feature 2
-- 🎯 Feature 3
-- ⚙️ Feature 4
-
-**🛠️ Tech Stack:** `Python` `Django` `PostgreSQL` `Docker`
-
-**🔗 Links:** [Live Demo](#) | [GitHub Repo](#) | [Documentation](#)
-
-**📊 Impact:** 500+ downloads, Featured on Product Hunt
-
----
-
-### 🔥 Project 3: [Awesome Project Title]
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce31a9685.gif">
-
-**Description:** A cutting-edge application that [main purpose]. Designed to improve [specific benefit].
-
-**✨ Key Features:**
-- 🎨 Feature 1
-- 🔧 Feature 2
-- 📱 Feature 3
-- 🌐 Feature 4
-
-**🛠️ Tech Stack:** `Next.js` `TypeScript` `GraphQL` `Redis`
-
-**🔗 Links:** [Live Demo](#) | [GitHub Repo](#) | [Case Study](#)
-
-**📊 Impact:** 2000+ active users, 100+ stars
-
-</details>
-
----
-
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Year | 🔗 Credential |
-|---------------|---------|---------------|
-| AWS Certified Solutions Architect | 2024 | [View](#) |
-| Google Cloud Professional | 2024 | [View](#) |
-| Hackathon Winner - [Event Name] | 2023 | [View](#) |
-| Open Source Contributor | 2023 | [View](#) |
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> [Understanding React Server Components](#)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> [Building Scalable Microservices with Node.js](#)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> [A Deep Dive into Docker and Kubernetes](#)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> [Best Practices for API Design](#)
-
----
-
-## 🤝 Let's Connect & Collaborate! 
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -275,14 +156,12 @@ const ayush = {
 
 ### 💬 Reach Out to Me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your. email@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-846598300/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gyanibaba4107)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ax_7y18/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://codecatalysts.tech/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iayushsharma.2008@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1013089497933680691)
 
 ### 📊 Profile Stats
 
@@ -296,47 +175,13 @@ const ayush = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushap18/ayushap18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushap18/ayushap18/output/github-contribution-grid-snake. svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayushap18/ayushap18/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-ayushap18.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
 ---
 
 <div align="center">
-
-### 💖 Support My Work
-
-If you like my work, consider buying me a coffee! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/your-profile)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/your-profile)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/your-profile)
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
