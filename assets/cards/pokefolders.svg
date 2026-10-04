@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="372" viewBox="0 0 600 372" role="img" aria-label="PokeFolders: Design elemental folder icons and apply them straight to Finder. Fully native.">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".06"/></pattern>
+  <radialGradient id="glow" cx="88%" cy="0%" r="75%"><stop offset="0" stop-color="#C6FF3D" stop-opacity=".14"/><stop offset="1" stop-color="#C6FF3D" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="600" height="372" rx="20"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+  .label{font-size:13px;letter-spacing:.16em;fill:#8A8A86}
+  .acc{fill:#C6FF3D}
+  .blink{animation:b 1.1s steps(1) infinite}
+  @keyframes b{50%{fill-opacity:0}}
+  .flow{stroke-dasharray:6 8;animation:f 1.2s linear infinite}
+  @keyframes f{to{stroke-dashoffset:-28}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="600" height="372" fill="#0B0B0C"/><rect width="600" height="372" fill="url(#dots)"/><rect width="600" height="372" fill="url(#glow)"/>
+  <text x="32" y="44" class="mono label">02  /  MACOS APP</text>
+  <text x="568" y="47" text-anchor="end" class="sans" font-size="22" fill="#F4F4F0" fill-opacity=".55">↗</text>
+  <defs><linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".28"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+  <g transform="rotate(-7 154 138)">
+    <path d="M84 96 a8 8 0 0 1 8 -8 h40 l12 12 h72 a8 8 0 0 1 8 8 v70 h-140 z" fill="#3D8BFF" fill-opacity=".55"/>
+    <rect x="84" y="110" width="140" height="80" rx="9" fill="#3D8BFF"/>
+    <rect x="84" y="110" width="140" height="80" rx="9" fill="url(#shine)"/>
+    <path transform="translate(154 150) scale(1.3)" d="M0 -12 C5 -5 8 0 8 4 A8 8 0 0 1 -8 4 C-8 0 -5 -5 0 -12 Z" fill="#0B0B0C" fill-opacity=".6"/>
+  </g>
+  <g transform="rotate(7 450 138)">
+    <path d="M380 96 a8 8 0 0 1 8 -8 h40 l12 12 h72 a8 8 0 0 1 8 8 v70 h-140 z" fill="#FF6A3D" fill-opacity=".55"/>
+    <rect x="380" y="110" width="140" height="80" rx="9" fill="#FF6A3D"/>
+    <rect x="380" y="110" width="140" height="80" rx="9" fill="url(#shine)"/>
+    <path transform="translate(450 150) scale(1.3)" d="M0 -12 C7 -5 9 1 7 6 C5 11 -5 11 -7 6 C-9 1 -5 -3 -2 -7 C-1 -3 2 -3 0 -12 Z" fill="#0B0B0C" fill-opacity=".6"/>
+  </g>
+  <g transform="rotate(0 300 126)">
+    <path d="M230 84 a8 8 0 0 1 8 -8 h40 l12 12 h72 a8 8 0 0 1 8 8 v70 h-140 z" fill="#C6FF3D" fill-opacity=".55"/>
+    <rect x="230" y="98" width="140" height="80" rx="9" fill="#C6FF3D"/>
+    <rect x="230" y="98" width="140" height="80" rx="9" fill="url(#shine)"/>
+    <path transform="translate(300 138) scale(1.3)" d="M2 -12 L-7 2 H0 L-2 12 L7 -2 H0 Z" fill="#0B0B0C" fill-opacity=".6"/>
+  </g>
+  <text x="32" y="250" class="sans" font-size="36" font-weight="700" letter-spacing="-.02em" fill="#F4F4F0">PokeFolders</text>
+  <text class="sans" font-size="18" fill="#A3A39E"><tspan x="32" y="281">Design elemental folder icons and apply</tspan><tspan x="32" y="305">them straight to Finder. Fully native.</tspan></text>
+  <rect x="32" y="322" width="66" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="65.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">Swift</text><rect x="106" y="322" width="82" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="147.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">SwiftUI</text><rect x="196" y="322" width="74" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="233.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">AppKit</text>
+</g>
+<rect x=".5" y=".5" width="599" height="371" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+</svg>

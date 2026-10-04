@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="372" viewBox="0 0 600 372" role="img" aria-label="TraceGraph: Live query routing across agents, drawn as a real-time trace graph.">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".06"/></pattern>
+  <radialGradient id="glow" cx="88%" cy="0%" r="75%"><stop offset="0" stop-color="#C6FF3D" stop-opacity=".14"/><stop offset="1" stop-color="#C6FF3D" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="600" height="372" rx="20"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+  .label{font-size:13px;letter-spacing:.16em;fill:#8A8A86}
+  .acc{fill:#C6FF3D}
+  .blink{animation:b 1.1s steps(1) infinite}
+  @keyframes b{50%{fill-opacity:0}}
+  .flow{stroke-dasharray:6 8;animation:f 1.2s linear infinite}
+  @keyframes f{to{stroke-dashoffset:-28}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="600" height="372" fill="#0B0B0C"/><rect width="600" height="372" fill="url(#dots)"/><rect width="600" height="372" fill="url(#glow)"/>
+  <text x="32" y="44" class="mono label">04  /  MULTI-AGENT</text>
+  <text x="568" y="47" text-anchor="end" class="sans" font-size="22" fill="#F4F4F0" fill-opacity=".55">↗</text>
+  <g fill="none" stroke-linecap="round">
+    <path d="M120 136 C160 136 160 90 190 90 M120 136 C160 136 160 182 190 182" stroke="#fff" stroke-opacity=".18" stroke-width="1.5"/>
+    <path d="M196 90 H250 M196 182 H250" stroke="#fff" stroke-opacity=".18" stroke-width="1.5"/>
+    <path d="M386 90 C430 90 430 136 468 136 M386 182 C430 182 430 136 468 136" stroke="#fff" stroke-opacity=".18" stroke-width="1.5"/>
+    <path d="M120 136 H250 M386 136 H468" stroke="#C6FF3D" stroke-width="2.5" class="flow"/>
+  </g>
+  <rect x="36" y="120" width="84" height="32" rx="16" fill="#131315" stroke="#fff" stroke-opacity=".25"/><text x="78" y="141" text-anchor="middle" class="mono" font-size="13" fill="#F4F4F0">query</text>
+  <circle cx="193" cy="90" r="5" fill="#0B0B0C" stroke="#fff" stroke-opacity=".4"/><circle cx="193" cy="182" r="5" fill="#0B0B0C" stroke="#fff" stroke-opacity=".4"/><circle cx="193" cy="136" r="5" fill="#C6FF3D"/>
+  <rect x="250" y="76" width="136" height="28" rx="8" fill="#131315" stroke="#fff" stroke-opacity=".15"/><text x="262" y="95" class="mono" font-size="13" fill="#C9C9C4">time</text><text x="374" y="95" text-anchor="end" class="mono" font-size="13" fill="#8A8A86">0.71</text>
+  <rect x="250" y="122" width="136" height="28" rx="8" fill="#131315" stroke="#C6FF3D" stroke-opacity=".7"/><text x="262" y="141" class="mono" font-size="13" fill="#F4F4F0">currency</text><text x="374" y="141" text-anchor="end" class="mono acc" font-size="13">0.94</text>
+  <rect x="250" y="168" width="136" height="28" rx="8" fill="#131315" stroke="#fff" stroke-opacity=".15"/><text x="262" y="187" class="mono" font-size="13" fill="#C9C9C4">weather</text><text x="374" y="187" text-anchor="end" class="mono" font-size="13" fill="#8A8A86">0.88</text>
+  <rect x="468" y="120" width="100" height="32" rx="16" fill="#C6FF3D"/><text x="518" y="141" text-anchor="middle" class="mono" font-size="13" fill="#0B0B0C">answer</text>
+  <text x="32" y="250" class="sans" font-size="36" font-weight="700" letter-spacing="-.02em" fill="#F4F4F0">TraceGraph</text>
+  <text class="sans" font-size="18" fill="#A3A39E"><tspan x="32" y="281">Live query routing across agents,</tspan><tspan x="32" y="305">drawn as a real-time trace graph.</tspan></text>
+  <rect x="32" y="322" width="74" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="69.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">Python</text><rect x="114" y="322" width="66" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="147.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">React</text><rect x="188" y="322" width="42" height="28" rx="14" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".12"/><text x="209.0" y="341" text-anchor="middle" class="mono" font-size="13" fill="#C9C9C4">D3</text>
+</g>
+<rect x=".5" y=".5" width="599" height="371" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+</svg>

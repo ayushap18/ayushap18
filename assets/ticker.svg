@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="AI agents, native apps, terminals, agentic RAG, Rust, Tauri, SwiftUI, TypeScript, Python, D3, hackathons">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".06"/></pattern>
+  <radialGradient id="glow" cx="88%" cy="0%" r="75%"><stop offset="0" stop-color="#C6FF3D" stop-opacity=".14"/><stop offset="1" stop-color="#C6FF3D" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="1200" height="56" rx="14"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+  .label{font-size:13px;letter-spacing:.16em;fill:#8A8A86}
+  .acc{fill:#C6FF3D}
+  .blink{animation:b 1.1s steps(1) infinite}
+  @keyframes b{50%{fill-opacity:0}}
+  .flow{stroke-dasharray:6 8;animation:f 1.2s linear infinite}
+  @keyframes f{to{stroke-dashoffset:-28}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="56" fill="#0B0B0C"/><rect width="1200" height="56" fill="url(#dots)"/><rect width="1200" height="56" fill="url(#glow)"/>
+  <g><text x="24" y="35" class="mono" font-size="15" fill="#C9C9C4" textLength="1300" lengthAdjust="spacing">AI AGENTS <tspan class="acc">✦</tspan> NATIVE APPS <tspan class="acc">✦</tspan> TERMINALS <tspan class="acc">✦</tspan> AGENTIC RAG <tspan class="acc">✦</tspan> RUST <tspan class="acc">✦</tspan> TAURI <tspan class="acc">✦</tspan> SWIFTUI <tspan class="acc">✦</tspan> TYPESCRIPT <tspan class="acc">✦</tspan> PYTHON <tspan class="acc">✦</tspan> D3 <tspan class="acc">✦</tspan> HACKATHONS <tspan class="acc">✦</tspan> </text><text x="1324" y="35" class="mono" font-size="15" fill="#C9C9C4" textLength="1300" lengthAdjust="spacing">AI AGENTS <tspan class="acc">✦</tspan> NATIVE APPS <tspan class="acc">✦</tspan> TERMINALS <tspan class="acc">✦</tspan> AGENTIC RAG <tspan class="acc">✦</tspan> RUST <tspan class="acc">✦</tspan> TAURI <tspan class="acc">✦</tspan> SWIFTUI <tspan class="acc">✦</tspan> TYPESCRIPT <tspan class="acc">✦</tspan> PYTHON <tspan class="acc">✦</tspan> D3 <tspan class="acc">✦</tspan> HACKATHONS <tspan class="acc">✦</tspan> </text><animateTransform attributeName="transform" type="translate" from="0 0" to="-1300 0" dur="32s" repeatCount="indefinite"/></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="55" rx="13.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+</svg>

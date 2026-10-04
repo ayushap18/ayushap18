@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Have a project in mind? Email iayushsharma.2008@gmail.com. Open to freelance.">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".06"/></pattern>
+  <radialGradient id="glow" cx="10%" cy="100%" r="75%"><stop offset="0" stop-color="#C6FF3D" stop-opacity=".14"/><stop offset="1" stop-color="#C6FF3D" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="1200" height="300" rx="20"/></clipPath>
+</defs>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+  .label{font-size:13px;letter-spacing:.16em;fill:#8A8A86}
+  .acc{fill:#C6FF3D}
+  .blink{animation:b 1.1s steps(1) infinite}
+  @keyframes b{50%{fill-opacity:0}}
+  .flow{stroke-dasharray:6 8;animation:f 1.2s linear infinite}
+  @keyframes f{to{stroke-dashoffset:-28}}
+</style>
+<g clip-path="url(#card)">
+  <rect width="1200" height="300" fill="#0B0B0C"/><rect width="1200" height="300" fill="url(#dots)"/><rect width="1200" height="300" fill="url(#glow)"/>
+  <text x="56" y="70" class="mono label">LET'S WORK TOGETHER</text>
+  <text x="56" y="146" class="sans" font-size="60" font-weight="700" letter-spacing="-.035em" fill="#F4F4F0">Have a project in mind?</text>
+  <text x="56" y="196" class="mono acc" font-size="20">iayushsharma.2008@gmail.com  →</text>
+  <text x="1144" y="70" text-anchor="end" class="mono" font-size="13" letter-spacing=".14em" fill="#C6FF3D">● OPEN TO FREELANCE</text>
+  <text x="1144" y="96" text-anchor="end" class="sans" font-size="16" fill="#A3A39E">Web apps · AI tools · Native apps</text>
+  <text x="600" y="372" text-anchor="middle" class="sans" font-size="210" font-weight="800" letter-spacing="-.04em" fill="none" stroke="#fff" stroke-opacity=".09" stroke-width="1.5">AYUSHAP18</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+</svg>
